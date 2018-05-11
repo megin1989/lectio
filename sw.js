@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/lectio/app-8caa877bb688f3f20c1e.js","c220fd362befa689c072882d82ceb06a"],["/lectio/commons-404f6ac97f9703658aa0.js","0eb5fa8ab9643faf4dd0233b7d773146"],["/lectio/index.html","bf65be90d635a2f0341126a8be3f7669"],["/lectio/manifest.json","62fe262774dd42471d0bec8e3ebd9c47"],["/lectio/offline-plugin-app-shell-fallback/index.html","6d8d477200e011922805f999dea5b538"]];
+var precacheConfig = [["/app-8caa877bb688f3f20c1e.js","5c47f06ea66f97e605e70b10803702ab"],["/commons-404f6ac97f9703658aa0.js","8cfd4f8d83becb9de09733f6bb4b7dfc"],["/index.html","4e373c55a4ffebab949809298df8b3ee"],["/manifest.json","62fe262774dd42471d0bec8e3ebd9c47"],["/offline-plugin-app-shell-fallback/index.html","c2cd2305862b2d33f8816c9a6af0264e"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
