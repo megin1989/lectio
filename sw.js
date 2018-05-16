@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/lectio/app-565c3bd6a3989459847b.js","25eac9a983bafa7b12b8ad5d0cb766cd"],["/lectio/app-8caa877bb688f3f20c1e.js","c220fd362befa689c072882d82ceb06a"],["/lectio/commons-404f6ac97f9703658aa0.js","394cf74e2456832a8073bd2a90280786"],["/lectio/index.html","971abf49e473b00abcda3baf660ad27a"],["/lectio/manifest.json","62fe262774dd42471d0bec8e3ebd9c47"],["/lectio/offline-plugin-app-shell-fallback/index.html","561a024321e8578b61792afb46fa7203"]];
+var precacheConfig = [["/app-565c3bd6a3989459847b.js","25eac9a983bafa7b12b8ad5d0cb766cd"],["/app-8caa877bb688f3f20c1e.js","c220fd362befa689c072882d82ceb06a"],["/app-fedb6c0614b05924f794.js","dce2242c83e4f1788807cfb89b1f4a44"],["/commons-404f6ac97f9703658aa0.js","078114608bc6009758715348e4d806d7"],["/index.html","fbcdba510530035ca171a1768f24b333"],["/manifest.json","62fe262774dd42471d0bec8e3ebd9c47"],["/offline-plugin-app-shell-fallback/index.html","91d3fd71f1920c2b94886248683dba57"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
