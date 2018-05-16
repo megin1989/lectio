@@ -1,0 +1,2 @@
+webpackJsonp([0xf6b8022c0105],{801:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozNjIw",title:"Netspective Media | Practitioner & Expert Journalism",description:'<p><span class="atwho-inserted" data-atwho-at-query="@a"><span id="0">@Aahil Amaan</span></span>‍&nbsp;</p><p></p>'}},pathContext:{id:"YXNzaWdubWVudDozNjIw"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nj-iw-7c803466e136a71ed049.js.map

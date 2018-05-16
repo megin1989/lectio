@@ -1,0 +1,2 @@
+webpackJsonp([0xdbb37be01f6d],{802:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNjIy",title:"Netspective Media | Practitioner & Expert Journalism",description:"<p>ttt</p>"}},pathContext:{id:"YXNzaWdubWVudDozNjIy"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nj-iy-7d41e5f082ff8206108e.js.map
